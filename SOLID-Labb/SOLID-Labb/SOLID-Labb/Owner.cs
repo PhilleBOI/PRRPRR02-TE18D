@@ -12,5 +12,6 @@ namespace SOLID_Labb
         {
             _owner = owner;
         }
+
     }
 }
